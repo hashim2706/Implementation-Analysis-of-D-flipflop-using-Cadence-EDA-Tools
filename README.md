@@ -47,7 +47,8 @@ ii)	Create Schematic Cell view.
 	Create Input and Output pins
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
-![IMG-20241019-WA0012](https://github.com/user-attachments/assets/34ba817f-3261-4ea3-b4e2-6be450b2207d)
+![Screenshot 2024-10-22 175716-vlsi1](https://github.com/user-attachments/assets/4744860f-22ba-4ca9-a830-2d9b0af52aae)
+
 
 
 
@@ -66,7 +67,8 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
-![IMG-20241019-WA0009](https://github.com/user-attachments/assets/9bef70c1-ffa3-4680-ac29-d4c5e03d792e)
+![Screenshot 2024-10-22 175817-vlsi 2](https://github.com/user-attachments/assets/af9355e4-c221-4c3e-8bf0-3fc998ab68a4)
+
 
 
 iv)	Creating the new test cell view
@@ -79,7 +81,8 @@ iv)	Creating the new test cell view
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
 
-![IMG-20241019-WA0011](https://github.com/user-attachments/assets/a6e192b4-bc9d-44a0-9007-ab48f2f1acc4)
+![Screenshot 2024-10-22 175911 vlsi 3](https://github.com/user-attachments/assets/9bc4be89-a798-472a-93cf-08d85d2134bf)
+
 
 
  
@@ -94,14 +97,16 @@ Analog simulation by SPECTRE.
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
  
-![IMG-20241019-WA0010](https://github.com/user-attachments/assets/e532f49e-b60f-4629-bb39-9f9b4085b36f)
+![image](https://github.com/user-attachments/assets/759b9943-7051-43b5-b980-3fae9a02de33)
+
 
 
 For Transient Analysis Settings and Output
  
- ![IMG-20241019-WA0013](https://github.com/user-attachments/assets/92433262-d11d-460f-899b-5c3d1e661266)
+![image](https://github.com/user-attachments/assets/05bbf6a1-08f8-4ea5-9243-c5192335406b)
 
- ![IMG-20241019-WA0014](https://github.com/user-attachments/assets/eef27219-4166-4c49-8662-ee7e0ddb6894)
+
+![image](https://github.com/user-attachments/assets/d87ff444-60da-40d7-99d6-33db617ad631)
 
 
 Results:
